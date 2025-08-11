@@ -64,7 +64,7 @@
 - [**DSA Patterns Notes**](https://github.com/RaihanurRahman2022/dsa-notes) – Pattern-wise DSA problem solving with multi-language solutions.
 - [**ERP for Pharmaceutical Industry**](https://www.deltagroup.cloud/) – Role-based access control, document management, advanced reporting.
 - [**CRM with Payment Integration**](https://my.sko.ch/) – Event campaign management & Post Finance payment gateway integration.
-- 
+  
 ---
 
 ## 📫 How to Reach Me

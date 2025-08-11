@@ -52,16 +52,26 @@
 ---
 
 ## 🌟 Featured Projects
-- [**DSA Patterns Notes**](https://github.com/RaihanurRahman2022/dsa-notes) – Pattern-wise problem solving with multi-language solutions
-- [**ERP for Pharmaceutical Industry**](https://www.deltagroup.cloud/) – Role-based access control, document management, advanced reporting
-- [**CRM with Payment Integration**](https://my.sko.ch/) – Event campaign management & Post Finance payment gateway integration
 
+### 🐹 Go Projects (Learning Journey)
+- [**System Monitoring Tool**](https://github.com/RaihanurRahman2022/system-monitoring-tool) – CLI tool to monitor CPU, memory, and disk usage in real time.
+- [**Task Manager CLI**](https://github.com/RaihanurRahman2022/task-manager-cli) – Command-line task manager for adding, listing, and removing tasks.
+- [**Simple Web Server**](https://github.com/RaihanurRahman2022/simple-web-server) – Basic HTTP server with routing in Go.
+- [**Sheikh Enterprise Backend**](https://github.com/RaihanurRahman2022/Sheikh-Enterprise-Backend) – Backend API for an enterprise system, built in Go.
+- [**File Analytics**](https://github.com/RaihanurRahman2022/file-analytics) – Tool to analyze and process file data efficiently.
+
+### 💼 Professional & Open Source Projects
+- [**DSA Patterns Notes**](https://github.com/RaihanurRahman2022/dsa-notes) – Pattern-wise DSA problem solving with multi-language solutions.
+- [**ERP for Pharmaceutical Industry**](https://www.deltagroup.cloud/) – Role-based access control, document management, advanced reporting.
+- [**CRM with Payment Integration**](https://my.sko.ch/) – Event campaign management & Post Finance payment gateway integration.
+- 
 ---
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihanur/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/RaihanurRahman2022)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:raihanur.rahman.2022@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/8801881898980)
 
 ---
 
